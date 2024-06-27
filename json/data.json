@@ -60,15 +60,18 @@
             "lastName":"Maqashalala",
             "gender":"femlae",
             "profile":"@Bhekelazi",
-            "contactDetails":"07123456789"
+            "contactDetails":"07123456789",
+            "cover":"https://www.shutterstock.com/image-vector/baby-yoda-cute-mascot-vector-600nw-2351985607.jpg"
         },
         {
             "id":"2",
             "firstName":"Asanda ",
             "lastName":"Mehlo",
-            "gender":"male",
+            "gender":"Transgender",
             "profile":"@Asamehlo",
-            "contactDetails":"0685479315"
+            "contactDetails":"0685479315",
+            "cover":"https://mquanaazi.github.io/huluImages/asanda.jpg"
+
         },
         {
             "id":"3",
@@ -76,7 +79,8 @@
             "lastName":"Nyana",
             "gender":"Transgender",
             "profile":"@SiphoNyana",
-            "contactDetails":"0846578925"
+            "contactDetails":"0846578925",
+            "cover":"https://mquanaazi.github.io/huluImages/sphokuhle.jpg"
         },
         {
             "id":"4",
@@ -84,7 +88,9 @@
             "lastName":"Keet",
             "gender":"femlae",
             "profile":"@CandyKeet",
-            "contactDetails":"065879254"
+            "contactDetails":"065879254",
+            "cover":"https://mquanaazi.github.io/huluImages/candice.jpg"
+            
         },
         {
             "id":"5",
@@ -92,7 +98,8 @@
             "lastName":"Hendrics",
             "gender":"male",
             "profile":"@kayKay",
-            "contactDetails":"0759766546"
+            "contactDetails":"0759766546",
+            "cover":"https://mquanaazi.github.io/huluImages/kayden.jpg"
         }
     ]
 }
